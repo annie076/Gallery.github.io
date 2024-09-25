@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <html>
+<html>
     <head>
       <h1>Flowers</h1>
     </head>
